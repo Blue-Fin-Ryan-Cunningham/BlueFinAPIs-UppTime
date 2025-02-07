@@ -1,6 +1,6 @@
 # Change these first
-owner: Blue-Fin-Ryan-Cunningham # Your GitHub organization or username, where this repository lives
-repo: Blue-Fin-Ryan-Cunningham/BlueFinAPIs-UppTime # The name of this repository
+owner: Blue-Fin-Ryan-Cunningham # Your GitHub username
+repo: Blue-Fin-Ryan-Cunningham/BlueFinAPIs-UppTime # Repository name
 
 sites:
   - name: ITS API
@@ -9,13 +9,9 @@ sites:
     url: https://its-tokenserviceapi.azurewebsites.net/.well-known/openid-configuration
   - name: ITS Public API
     url: https://its-public-web-api-live.azurewebsites.net/swagger/index.html
-  
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: /Blue-Fin-Ryan-Cunningham/BlueFinAPIs-UppTime 
+  baseUrl: /BlueFinAPIs-UppTime  # Ensure correct base URL for GitHub Pages
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**TESTING** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -26,5 +22,8 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Optional: Add a Content Security Policy in GitHub Pages (_headers file required)
+static:
+  _headers: |
+    /  
+      Content-Security-Policy: default-src 'self'; font-src 'self' https://fonts.googleapis.com https://fonts.gstatic.com;
