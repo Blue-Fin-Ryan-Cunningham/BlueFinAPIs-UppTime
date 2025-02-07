@@ -11,7 +11,7 @@ sites:
     url: https://its-public-web-api-live.azurewebsites.net/swagger/index.html
 
 status-website:
-  baseUrl: /BlueFinAPIs-UppTime  # Ensure correct base URL for GitHub Pages
+  baseUrl: /Blue-Fin-Ryan-Cunningham/BlueFinAPIs-UppTime  # Ensure correct base URL for GitHub Pages
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**TESTING** is the open-source uptime monitor and status page, powered entirely by GitHub."
