@@ -4,10 +4,10 @@
     "url": "https://itsbackofficeapi.azurewebsites.net/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/itsbackofficeapi.azurewebsites.net.ico",
     "slug": "its-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 480,
@@ -15,25 +15,29 @@
     "timeWeek": 509,
     "timeMonth": 480,
     "timeYear": 480,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-04": 1
+    }
   },
   {
     "name": "ITS Token Service",
     "url": "https://its-tokenserviceapi.azurewebsites.net/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/its-tokenserviceapi.azurewebsites.net.ico",
     "slug": "its-token-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 432,
-    "timeWeek": 539,
-    "timeMonth": 553,
-    "timeYear": 553,
-    "dailyMinutesDown": {}
+    "time": 583,
+    "timeDay": 954,
+    "timeWeek": 657,
+    "timeMonth": 583,
+    "timeYear": 583,
+    "dailyMinutesDown": {
+      "2025-03-04": 0
+    }
   },
   {
     "name": "ITS Public API",
@@ -41,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/its-public-web-api-live.azurewebsites.net.ico",
     "slug": "its-public-api",
     "status": "up",
-    "uptime": "97.26%",
+    "uptime": "97.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "97.26%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "97.30%",
     "time": 838,
     "timeDay": 402,
     "timeWeek": 503,
