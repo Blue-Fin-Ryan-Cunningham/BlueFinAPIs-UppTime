@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 571,
-    "timeDay": 629,
-    "timeWeek": 519,
-    "timeMonth": 507,
-    "timeYear": 571,
+    "time": 570,
+    "timeDay": 373,
+    "timeWeek": 520,
+    "timeMonth": 504,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2025-03-04": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 559,
-    "timeDay": 687,
-    "timeWeek": 545,
-    "timeMonth": 548,
-    "timeYear": 559,
+    "time": 558,
+    "timeDay": 422,
+    "timeWeek": 546,
+    "timeMonth": 544,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2025-03-04": 28
     }
@@ -46,17 +46,16 @@
     "slug": "its-public-api",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
-    "time": 581,
-    "timeDay": 574,
+    "time": 579,
+    "timeDay": 492,
     "timeWeek": 530,
-    "timeMonth": 508,
-    "timeYear": 581,
+    "timeMonth": 504,
+    "timeYear": 579,
     "dailyMinutesDown": {
-      "2025-06-19": 14,
       "2025-02-11": 542,
       "2025-02-10": 423
     }
